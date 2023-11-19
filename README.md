@@ -42,7 +42,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/noobcoder007-exe/noobcoder007-exe/output/snake.svg" alt="Snake animation" />
-
-###
