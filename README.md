@@ -1,4 +1,4 @@
-<h1 align="left">Hi  there👋! My name is Pratham and I'm a passionate software developer.</h1>
+<h1 align="left">Hi  there👋! My name is Pratham and I'm a passionate Software developer.</h1>
 
 ###
 
