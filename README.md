@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/pratham-srivastava-047813258/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-    <a href="https://twitter.com/PrathamRajSriv2" target="_blank">
+    <a href="https://twitter.com/pratham_dev07" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
