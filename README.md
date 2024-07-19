@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">About me:<br>- I am an undergrad student (3rd year)<br>- Mentoring an open source project at SSOC'24<br>- Learning Backend Development<br>- Email: prathamrajsri2003@gmail.com</h4>
+<h4 align="left">About me:<br>- I am an undergrad student (4th year)<br> -Currently Learning NextJS 14<br>- Mentoring an open source project at SSOC'24<br>- Learning Backend Development<br>- Email: prathamrajsri2003@gmail.com</h4>
 
 ###
 
