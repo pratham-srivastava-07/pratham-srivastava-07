@@ -1,3 +1,6 @@
+![Untitled](https://github.com/user-attachments/assets/ec818e88-7dbc-40a7-91e5-a9a7f116d96d)
+
+
 # 💫 About Me:
 HI! My Name is Pratham Srivastava👋🏻<br><br>- I am an undergrad student (4th year)<br><br>- Currently Learning NextJS 14<br><br>- Mentored an open source project at SSOC'24<br><br>- Exploring Web3<br><br>- Email: prathamrajsri2003@gmail.com
 
