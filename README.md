@@ -1,5 +1,5 @@
 # 💫 About Me:
- HI! My Name is Pratham Srivastava👋🏻<br><br>- I am an undergrad student (4th year)<br><br>- Currently Learning NextJS 14<br><br>- Mentored an open source project at SSOC'24<br><br>- Exploring Web3<br><br>- Email: prathamrajsri2003@gmail.com
+ HI! My name is Pratham Srivastava👋🏻<br><br>- I am an undergrad student (4th year)<br><br>- Currently Learning NextJS 14<br><br>- Mentored an open source project at SSOC'24<br><br>- Exploring Web3<br><br>- Email: prathamrajsri2003@gmail.com
 
 
 ## 🌐 Socials:
