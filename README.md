@@ -5,9 +5,9 @@
 ## 🚀 About Me
 Hey there! I'm Pratham, a Software Engineer and final year undergrad student with passion for building innovative solutions.
 
-- 🔭 Currently exploring the world of Web3 and blockchain technology
-- 🌱 Open source enthusiast - Mentored a project at SSOC'24
-- 💡 Constantly learning and adapting to new technologies
+- 🔭 Currently exploring the world of Web3, Solana ecosystem, and blockchain technology
+- 💡 Constantly learning and adapting to new technologies (Rust)
+- 🛠️ Building scalable applications
 - 📫 Reach me at: prathamrajsri2003@gmail.com
 
 ## 🌐 Connect With Me
@@ -19,7 +19,7 @@ Hey there! I'm Pratham, a Software Engineer and final year undergrad student wit
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -35,13 +35,13 @@ Hey there! I'm Pratham, a Software Engineer and final year undergrad student wit
 
 ### Web3
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana&logoColor=white)
 
 ### Tools & Deployment
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats
 <div align="center">
