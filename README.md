@@ -52,7 +52,4 @@ Hey there! I'm Pratham, a Software Engineer and final year undergrad student wit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-srivastava-07&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratham-srivastava-07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
