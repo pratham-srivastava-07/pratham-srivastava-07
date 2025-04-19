@@ -13,7 +13,7 @@ Hey there! I'm Pratham, a Software Engineer and final year undergrad student wit
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-srivastava-047813258/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@prathamrajsri2003) 
-[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pratham_dev07)
+[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_pratham_rs)
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
