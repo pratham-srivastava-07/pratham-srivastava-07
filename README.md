@@ -17,7 +17,7 @@ Hey there! I'm Pratham, a Software Engineer and final year undergrad student wit
 
 ---
 
-# Showcase
+# What I’ve Been Building
 
 - [**rust-blockchain**](https://github.com/pratham-srivastava-07/rust-blockchain) – A basic blockchain prototype built in Rust that demonstrates block creation, hashing, and validation mechanisms for secure distributed ledgers.
 
