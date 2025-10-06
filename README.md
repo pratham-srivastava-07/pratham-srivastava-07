@@ -5,27 +5,33 @@
 ## 🚀 About Me
 Hey there! I'm Pratham, a Software Engineer and final year undergrad student with passion for building innovative solutions.
 
-- 🔭 Currently exploring the world of Web3, Solana ecosystem, and blockchain technology
-- 💡 Constantly learning and adapting to new technologies (Rust)
-- 🛠️ Building scalable applications
-- 📫 Reach me at: prathamrajsri2003@gmail.com
+- 🔭 Currently exploring the world of Web3, Solana ecosystem, and blockchain technology  
+- 💡 Constantly learning and adapting to new technologies (Rust)  
+- 🛠️ Building scalable applications  
+- 📫 Reach me at: prathamrajsri2003@gmail.com  
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-srivastava-047813258/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@prathamrajsri2003) 
 [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_pratham_rs)
 
-## 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)![Solana](https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana&logoColor=white)
+---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham-srivastava-07&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-srivastava-07&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-srivastava-07&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+# Showcase
 
+- [**rust-blockchain**](https://github.com/pratham-srivastava-07/rust-blockchain) – A basic blockchain prototype built in Rust that demonstrates block creation, hashing, and validation mechanisms for secure distributed ledgers.
+
+- [**seo-optimizer**](https://github.com/pratham-srivastava-07/seo-optimizer) – An n8n-powered SEO analysis tool that evaluates website crawlability, robots.txt configurations, and rendering performance, generating AI-driven optimization insights and scores.
+
+- [**livestream-vc**](https://github.com/pratham-srivastava-07/livestream-vc) – A WebRTC-based video communication system where multiple participants can join live video sessions, while others can view the stream in real time via an HLS-powered interface.
+
+- [**wallet-library-rust-cpp**](https://github.com/pratham-srivastava-07/wallet-library-rust-cpp) – A hybrid Rust and C++ wallet implementation supporting Ed25519 and Secp256k1 keypairs, message signing, and verification, designed to demonstrate cryptographic interoperability between the two languages.
+
+- [**Forge**](https://github.com/pratham-srivastava-07/Forge) – A Rust-powered CLI tool to scaffold, build, and manage C++ projects efficiently. It provides streamlined commands for template generation, dependency setup, and automated CMake integration.
+
+- [**Zephyr**](https://github.com/pratham-srivastava-07/Zephyr) – A Rust-based text search engine that indexes and ranks documents using TF-IDF. It builds an inverted index for quick keyword lookups and relevance-based ranking.
+
+- [**mini-redis**](https://github.com/pratham-srivastava-07/mini-redis) – A lightweight in-memory key-value store implemented in Rust using gRPC. It supports basic operations like Get, Set, and Delete, mimicking Redis’ core functionality.
+
+---
 
