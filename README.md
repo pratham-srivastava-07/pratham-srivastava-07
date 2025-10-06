@@ -23,13 +23,13 @@ Hey there! I'm Pratham, a Software Engineer and final year undergrad student wit
 
 - [**seo-optimizer**](https://github.com/pratham-srivastava-07/seo-optimizer) – An n8n-powered SEO analysis tool that evaluates website crawlability, robots.txt configurations, and rendering performance, generating AI-driven optimization insights and scores.
 
-- [**livestream-vc**](https://github.com/pratham-srivastava-07/livestream-vc) – A WebRTC-based video communication system where multiple participants can join live video sessions, while others can view the stream in real time via an HLS-powered interface.
+- [**livestream-vc**](https://github.com/pratham-srivastava-07/livestream-vc) – A WebRTC-based video communication system where multiple participants can join live video sessions, while others can view the stream in real time via an HLS-powered interface. (🔴 Incomplete)
 
 - [**wallet-library-rust-cpp**](https://github.com/pratham-srivastava-07/wallet-library-rust-cpp) – A hybrid Rust and C++ wallet implementation supporting Ed25519 and Secp256k1 keypairs, message signing, and verification, designed to demonstrate cryptographic interoperability between the two languages.
 
 - [**Forge**](https://github.com/pratham-srivastava-07/Forge) – A Rust-powered CLI tool to scaffold, build, and manage C++ projects efficiently. It provides streamlined commands for template generation, dependency setup, and automated CMake integration. (🔴 Testing)
 
-- [**Zephyr**](https://github.com/pratham-srivastava-07/Zephyr) – A Rust-based text search engine that indexes and ranks documents using TF-IDF. It builds an inverted index for quick keyword lookups and relevance-based ranking.
+- [**search-engine**](https://github.com/pratham-srivastava-07/Zephyr) – A Rust-based text search engine that indexes and ranks documents using TF-IDF. It builds an inverted index for quick keyword lookups and relevance-based ranking.
 
 - [**mini-redis**](https://github.com/pratham-srivastava-07/mini-redis) – A lightweight in-memory key-value store implemented in Rust using gRPC. It supports basic operations like Get, Set, and Delete, mimicking Redis’ core functionality.
 
