@@ -33,5 +33,8 @@ Hey there! I'm Pratham, a Software Engineer and final year undergrad student wit
 
 - [**mini-redis**](https://github.com/pratham-srivastava-07/mini-redis) – A lightweight in-memory key-value store implemented in Rust using gRPC. It supports basic operations like Get, Set, and Delete, mimicking Redis’ core functionality.
 
+- [**json-parser**](https://github.com/pratham-srivastava-07/json-parser) – A fully custom JSON parser implemented in Rust without relying on `serde_json`, `nom`, Lex, or Yacc. It includes a tokenizer and a recursive-descent parser that generates a strongly-typed AST mapped to native Rust types, supporting strings, numbers, booleans, arrays, objects, and null.
+
+
 ---
 
