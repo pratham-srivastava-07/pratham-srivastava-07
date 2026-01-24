@@ -35,6 +35,8 @@ Hey there! I'm Pratham, a Software Engineer and final year undergrad student wit
 
 - [**json-parser**](https://github.com/pratham-srivastava-07/json-parser) – A fully custom JSON parser implemented in Rust without relying on `nom`, Lex, or Yacc. It includes a tokenizer and a recursive-descent parser that generates a strongly-typed AST mapped to native Rust types, supporting strings, numbers, booleans, arrays, objects, and null.
 
+- [**atlas-cache**](https://github.com/pratham-srivastava-07/atlas_cache) - Atlas is a high-performance, thread-safe, in-memory key-value caching server built with C++20. It exposes a simple RESTful HTTP API for easy integration with any client application.
+
 
 ---
 
