@@ -1,4 +1,5 @@
-![Untitled](https://github.com/user-attachments/assets/ec818e88-7dbc-40a7-91e5-a9a7f116d96d)
+<img width="1057" height="318" alt="pratham" src="https://github.com/user-attachments/assets/636892e6-0736-4f31-973e-89434dddde49" />
+
 
 # 👨‍💻 Pratham Srivastava
 
