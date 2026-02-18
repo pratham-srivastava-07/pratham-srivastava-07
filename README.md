@@ -38,6 +38,7 @@ Hey there! I'm Pratham, a Software Engineer and final year undergrad student wit
 
 - [**atlas-cache**](https://github.com/pratham-srivastava-07/atlas_cache) - Atlas is a high-performance, thread-safe, in-memory key-value caching server built with C++20. It exposes a simple RESTful HTTP API for easy integration with any client application.
 
+-[**http-server**](https://github.com/pratham-srivastava-07/http-in-rust) - HTTP server written from scratch in Rust without using dependencies like tokio.
 
 ---
 
