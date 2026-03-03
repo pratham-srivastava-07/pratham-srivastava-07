@@ -40,5 +40,7 @@ Hey there! I'm Pratham, a Software Engineer and final year undergrad student wit
 
 - [**http-server**](https://github.com/pratham-srivastava-07/http-in-rust) - HTTP server written from scratch in Rust without using dependencies like tokio.
 
+- [**payment-ledger-system**(https://github.com/pratham-srivastava-07/payment-ledger-system)] - A scalable, event-driven payment ledger backend built with TypeScript, Node.js, and Prisma. It implements immutable double-entry bookkeeping, supports payment reconciliation workflows, and includes OpenAPI (Swagger) documentation, Dockerized deployment, and production-ready architecture patterns.
+
 ---
 
