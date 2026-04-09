@@ -1,15 +1,16 @@
 <img width="1057" height="318" alt="pratham" src="https://github.com/user-attachments/assets/636892e6-0736-4f31-973e-89434dddde49" />
 
 
-# 👨‍💻 Pratham Srivastava
+Pratham Srivastava — Software Engineer
 
-## 🚀 About Me
-Hey there! I'm Pratham, a Software Engineer and final year undergrad student with passion for building innovative solutions.
+Software Engineer with a strong focus on backend and systems engineering.
 
-- 🔭 Currently exploring the world of Web3, Solana ecosystem, and blockchain technology  
-- 💡 Constantly learning and adapting to new technologies (Rust)  
-- 🛠️ Building scalable applications  
-- 📫 Reach me at: prathamrajsri2003@gmail.com  
+Exploring Web3, the Solana ecosystem, and blockchain infrastructure
+Working extensively with Rust for systems programming (performance, concurrency, memory safety)
+Focused on backend architecture, scalability, and production-grade system design
+Building and experimenting with high-throughput, low-latency systems
+
+📫 prathamrajsri2003@gmail.com
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-srivastava-047813258/) 
