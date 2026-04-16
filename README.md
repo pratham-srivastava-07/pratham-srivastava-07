@@ -2,7 +2,7 @@
 
 
 ## Pratham Srivastava
-## Backend & Systems Engineer | Distributed Systems
+## Software Engineer | Distributed Systems
 
 Currently deep-diving into:
 
