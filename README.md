@@ -16,7 +16,7 @@ I enjoy working close to the metal—building high-throughput services, real-tim
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-srivastava-047813258/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@prathamrajsri2003) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prathamrajsri2003) 
 [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_pratham_rs)
 
 ---
@@ -45,5 +45,12 @@ I enjoy working close to the metal—building high-throughput services, real-tim
 
 - [**payment-ledger-system**](https://github.com/pratham-srivastava-07/payment-ledger-system) - A scalable, event-driven payment ledger backend built with TypeScript, Node.js, and Prisma. It implements immutable double-entry bookkeeping, supports payment reconciliation workflows, and includes OpenAPI (Swagger) documentation, Dockerized deployment, and production-ready architecture patterns.
 
+- [**backend-sdk**](https://github.com/pratham-srivastava-07/backend-sdk) – `create-expressive`, an npm CLI that scaffolds a production-ready Express 5 backend with a layered architecture (routes → controllers → services → repositories). Ships a complete User vertical slice using TypeScript, Prisma, Zod validation, bcrypt, and JWT auth out of the box.
+
+- [**ghostpay**](https://github.com/pratham-srivastava-07/ghostpay) – A client-side app for private payment links on Solana that obscures transaction patterns using split transfers and randomized delays inside a Trusted Execution Environment (TEE). Built with Next.js, TypeScript, and Tailwind, integrating the MagicBlock Private Payments API with a serverless design that encodes state in URL hash fragments so no sensitive data hits server logs.
+
+- [**zomato-sys-design**](https://github.com/pratham-srivastava-07/zomato-sys-design) – A console-based food ordering system in C++ that mimics core Zomato functionality with zero external dependencies. Demonstrates classic OOP design patterns (Singleton, Factory Method, Strategy) across restaurant search, menu browsing, cart management, and UPI/credit-card payment flows.
+
+- [**realtime-collaboration-engine**](https://github.com/pratham-srivastava-07/realtime-collaboration-engine) – A distributed, event-sourced backend for real-time multiplayer collaboration (Figma/Notion), built with Node.js, TypeScript, PostgreSQL, and Redis. Features an immutable operation log with replay and snapshot recovery, WebSocket presence tracking, JWT auth, and Yjs-powered CRDT sync, showcased via a multiplayer Kanban board demo.
 ---
 
