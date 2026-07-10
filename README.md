@@ -29,13 +29,9 @@ I enjoy working close to the metal—building high-throughput services, real-tim
 
 - [**livestream-vc**](https://github.com/pratham-srivastava-07/livestream-vc) – A WebRTC-based video communication system where multiple participants can join live video sessions, while others can view the stream in real time via an HLS-powered interface. (🔴 Incomplete)
 
-- [**wallet-library-rust-cpp**](https://github.com/pratham-srivastava-07/wallet-library-rust-cpp) – A hybrid Rust and C++ wallet implementation supporting Ed25519 and Secp256k1 keypairs, message signing, and verification, designed to demonstrate cryptographic interoperability between the two languages.
-
 - [**Forge**](https://github.com/pratham-srivastava-07/Forge) – A Rust-powered CLI tool to scaffold, build, and manage C++ projects efficiently. It provides streamlined commands for template generation, dependency setup, and automated CMake integration. (🔴 Testing)
 
 - [**search-engine**](https://github.com/pratham-srivastava-07/Zephyr) – A Rust-based text search engine that indexes and ranks documents using TF-IDF. It builds an inverted index for quick keyword lookups and relevance-based ranking.
-
-- [**mini-redis**](https://github.com/pratham-srivastava-07/mini-redis) – A lightweight in-memory key-value store implemented in Rust using gRPC. It supports basic operations like Get, Set, and Delete, mimicking Redis’ core functionality.
 
 - [**json-parser**](https://github.com/pratham-srivastava-07/json-parser) – A fully custom JSON parser implemented in Rust without relying on `nom`, Lex, or Yacc. It includes a tokenizer and a recursive-descent parser that generates a strongly-typed AST mapped to native Rust types, supporting strings, numbers, booleans, arrays, objects, and null.
 
@@ -47,9 +43,9 @@ I enjoy working close to the metal—building high-throughput services, real-tim
 
 - [**backend-sdk**](https://github.com/pratham-srivastava-07/backend-sdk) – `create-expressive`, an npm CLI that scaffolds a production-ready Express 5 backend with a layered architecture (routes → controllers → services → repositories). Ships a complete User vertical slice using TypeScript, Prisma, Zod validation, bcrypt, and JWT auth out of the box.
 
-- [**ghostpay**](https://github.com/pratham-srivastava-07/ghostpay) – A client-side app for private payment links on Solana that obscures transaction patterns using split transfers and randomized delays inside a Trusted Execution Environment (TEE). Built with Next.js, TypeScript, and Tailwind, integrating the MagicBlock Private Payments API with a serverless design that encodes state in URL hash fragments so no sensitive data hits server logs.
-
 - [**zomato-sys-design**](https://github.com/pratham-srivastava-07/zomato-sys-design) – A console-based food ordering system in C++ that mimics core Zomato functionality with zero external dependencies. Demonstrates classic OOP design patterns (Singleton, Factory Method, Strategy) across restaurant search, menu browsing, cart management, and UPI/credit-card payment flows.
+
+- [**notification-system**](https://github.com/pratham-srivastava-07/notification-system) – An event-driven notification platform built with TypeScript, Kafka, and PostgreSQL that ingests events via API and dispatches them across multiple channels (email, SMS, webhooks). Workers consume Kafka topics independently with Redis-backed rate limiting, retries, and a Next.js dashboard for delivery observability.
 
 - [**realtime-collaboration-engine**](https://github.com/pratham-srivastava-07/realtime-collaboration-engine) – A distributed, event-sourced backend for real-time multiplayer collaboration (Figma/Notion), built with Node.js, TypeScript, PostgreSQL, and Redis. Features an immutable operation log with replay and snapshot recovery, WebSocket presence tracking, JWT auth, and Yjs-powered CRDT sync, showcased via a multiplayer Kanban board demo.
 ---
