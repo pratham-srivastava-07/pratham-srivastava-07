@@ -23,19 +23,9 @@ I enjoy working close to the metal—building high-throughput services, real-tim
 
 # What I’ve Been Building
 
-- [**rust-blockchain**](https://github.com/pratham-srivastava-07/rust-blockchain) – A basic blockchain prototype built in Rust that demonstrates block creation, hashing, and validation mechanisms for secure distributed ledgers.
-
-- [**seo-optimizer**](https://github.com/pratham-srivastava-07/seo-optimizer) – An n8n-powered SEO analysis tool that evaluates website crawlability, robots.txt configurations, and rendering performance, generating AI-driven optimization insights and scores.
-
-- [**livestream-vc**](https://github.com/pratham-srivastava-07/livestream-vc) – A WebRTC-based video communication system where multiple participants can join live video sessions, while others can view the stream in real time via an HLS-powered interface. (🔴 Incomplete)
-
 - [**Forge**](https://github.com/pratham-srivastava-07/Forge) – A Rust-powered CLI tool to scaffold, build, and manage C++ projects efficiently. It provides streamlined commands for template generation, dependency setup, and automated CMake integration. (🔴 Testing)
 
-- [**search-engine**](https://github.com/pratham-srivastava-07/Zephyr) – A Rust-based text search engine that indexes and ranks documents using TF-IDF. It builds an inverted index for quick keyword lookups and relevance-based ranking.
-
 - [**json-parser**](https://github.com/pratham-srivastava-07/json-parser) – A fully custom JSON parser implemented in Rust without relying on `nom`, Lex, or Yacc. It includes a tokenizer and a recursive-descent parser that generates a strongly-typed AST mapped to native Rust types, supporting strings, numbers, booleans, arrays, objects, and null.
-
-- [**atlas-cache**](https://github.com/pratham-srivastava-07/atlas_cache) - Atlas is a high-performance, thread-safe, in-memory key-value caching server built with C++20. It exposes a simple RESTful HTTP API for easy integration with any client application.
 
 - [**http-server**](https://github.com/pratham-srivastava-07/http-in-rust) - HTTP server written from scratch in Rust without using dependencies like tokio.
 
